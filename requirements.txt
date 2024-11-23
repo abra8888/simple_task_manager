@@ -1,0 +1,4 @@
+to make it work :
+Activate Your Virtual Environment
+Install Flask
+to work with no error use bash Scripts will run the application 
